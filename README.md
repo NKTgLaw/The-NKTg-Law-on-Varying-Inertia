@@ -1,6 +1,8 @@
-# The NKTg Law on Varying Inertia
+The NKTg Law on Varying Inertia
 
 A novel formulation of orbital dynamics that describes how an object's motion in space depends on its **position**, **velocity**, and **mass** — through a new quantity called **NKTg**.
+
+---
 
 ## 📌 Overview
 
@@ -8,54 +10,91 @@ The **NKTg Law** proposes a relationship that governs an object's movement tende
 
 NKTg = f(x, v, m)
 
+
 Where:
 - `x`: Position or displacement of the object relative to a reference point.
 - `v`: Velocity of the object.
 - `m`: Mass of the object.
 
-The law defines two core components of varying inertia:
+---
+
+## 🔬 Extended Description
+
+Unlike classical Newtonian mechanics which assumes constant inertia, the NKTg Law introduces a dynamic view of inertia — influenced by mass variation and positional momentum. This law is particularly valuable for modeling systems such as spacecrafts, satellites, or even planets where mass is not constant over time.
+
+The law defines two components that determine an object's movement tendency:
+
+- **NKTg₁ = x × p** — evaluates whether momentum and position drive the object toward or away from equilibrium.
+- **NKTg₂ = (dm/dt) × p** — measures how a change in mass affects the motion, either amplifying or resisting it.
+
+By integrating these two components, the NKTg Law offers a more complete interpretation of motion in dynamic systems, verified through real NASA and GRACE satellite data.
+
+---
+
+## 📐 Core Formulas
+
+Let `p = m × v` be the linear momentum.
 
 ### 🔸 Component 1: Position-Momentum Interaction
 
 NKTg₁ = x × p
 
-Where `p = m × v` is the linear momentum.  
-`NKTg₁` reflects the interaction between position and momentum.
 
-- If `NKTg₁ > 0`: The object tends to move **away** from its stable state.
-- If `NKTg₁ < 0`: The object tends to return **toward** its stable state.
+- If `NKTg₁ > 0`: The object tends to move **away** from its stable state.  
+- If `NKTg₁ < 0`: The object tends to return **toward** the stable state.
 
 ### 🔸 Component 2: Mass Variation Effect
 
 NKTg₂ = (dm/dt) × p
 
-Where:
-- `dm/dt` is the **rate of mass change over time**.
-- `NKTg₂` measures how mass variation influences movement.
 
-- If `NKTg₂ > 0`: Mass change **supports** the movement.
+- If `NKTg₂ > 0`: Mass change **supports** the movement.  
 - If `NKTg₂ < 0`: Mass change **resists** the movement.
 
-> 📏 Unit: Both components are expressed in **NKTm**, a proposed unit representing "varying inertia".
+> 📏 Unit of measure: **NKTm** — a proposed unit representing varying inertia.
+
+---
 
 ## 🔧 Stable State Definition
 
-A **stable state** is defined as a configuration where position (`x`), velocity (`v`), and mass (`m`) interact to preserve the object's current motion without deviation or loss of control. In such a state, the object maintains its natural orbital or inertial behavior.
+A **stable state** is a dynamic configuration where the object’s position (`x`), velocity (`v`), and mass (`m`) interact in such a way that motion is preserved without uncontrolled deviation. This concept is key to understanding orbital sustainability.
+
+---
 
 ## 📂 Applications
 
 This theoretical framework can be applied to:
-- Predicting orbital behavior of satellites and planets
-- Reinterpreting spacecraft trajectory dynamics
-- Revisiting principles of momentum in variable-mass systems
-
-## 📜 License
-
-This work is licensed under a Creative Commons Attribution 4.0 International License.  
-https://creativecommons.org/licenses/by/4.0/
+- 🛰 Predicting orbital behavior of satellites and planets
+- 🚀 Reinterpreting spacecraft trajectory dynamics
+- 🌌 Modeling mass-variable systems such as migrating celestial bodies
+- 📉 Diagnosing inertial stability in gravitationally active environments
 
 ---
 
-> Developed by **Nguyen Khanh Tung**  
-> 🌐 [https://traiphieu.com](https://traiphieu.com)  
-> 📧 Contact: traiphieu.com@gmail.com
+## 📁 Resources
+
+- `CITATION.cff` – Citation metadata  
+- `README.md` – Project summary and formulas
+
+---
+
+## 👤 Author
+
+**Nguyen Khanh Tung**  
+🔗 [https://traiphieu.com](https://traiphieu.com)  
+✉️ traiphieu.com@gmail.com
+
+---
+
+## 📜 License
+
+This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
+
+---
+
+## 📝 How to Cite
+
+Nguyen Khanh Tung (2025). *The NKTg Law on Varying Inertia*.
+
+📌 **DOI (Primary – Figshare)**: [https://doi.org/10.6084/m9.figshare.29481710.v1](https://doi.org/10.6084/m9.figshare.29481710.v1)  
+📌 **DOI (Zenodo mirror)**: [https://doi.org/10.5281/zenodo.15808498](https://doi.org/10.5281/zenodo.15808498)
