@@ -13,10 +13,6 @@ A novel physics framework redefining how position (`x`), velocity (`v`), and mas
 NKTg₁ = x × (m × v)
 NKTg₂ = (dm/dt) × (m × v)
 
-yaml
-Copy
-Edit
-
 - `NKTg₁ < 0`: Stabilizing  
 - `NKTg₁ > 0`: Destabilizing  
 - `NKTg₂ < 0`: Mass resists motion  
