@@ -1,4 +1,4 @@
-# 🌀 The NKTg Law on Varying Inertia
+# The NKTg Law on Varying Inertia
 
 A novel formulation of orbital dynamics that describes how an object's motion in space depends on its **position**, **velocity**, and **mass** — through a new quantity called **NKTg**.
 
