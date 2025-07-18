@@ -1,7 +1,4 @@
-The NKTg Law on Varying Inertia
----
-
-# 🌀 The NKTg Law on Varying Inertia
+# The NKTg Law on Varying Inertia
 
 A novel physics framework redefining how position (`x`), velocity (`v`), and mass (`m`) interact — especially when mass is **not constant**.
 
