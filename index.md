@@ -56,6 +56,10 @@ This theoretical framework can be applied to:
 
 📖 [https://github.com/NKTgLaw/The-NKTg-Law-on-Varying-Inertia/wiki](https://github.com/NKTgLaw/The-NKTg-Law-on-Varying-Inertia/wiki)
 
+## 📚 Bài viết nghiên cứu liên quan
+
+- [🔬 Kiểm chứng Luật NKTg: Nội suy khối lượng 8 hành tinh bằng dữ liệu NASA (2024)](./nktg-law/Experimental_Verification_of_the_NKTg_Law_Interpolating_the_Masses_of_8_Planets_2024.md)
+
 ---
 
 ## 📄 CITATION.cff
