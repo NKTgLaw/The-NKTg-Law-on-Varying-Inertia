@@ -54,6 +54,10 @@ NKTg₂ = (dm/dt) × p
 > 📏 Unit of measure: **NKTm** — a proposed unit representing varying inertia.
 
 ---
+### 📖 Further Reading
+
+- [NKTm Unit: Measurement Standard for Varying Inertia in the NKTg Law](./nktg-law/NKTm-Unit.md)
+
 
 ## 🔧 Stable State Definition
 
