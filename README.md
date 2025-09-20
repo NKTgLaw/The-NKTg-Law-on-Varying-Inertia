@@ -56,7 +56,11 @@ NKTg₂ = (dm/dt) × p
 ---
 ### 📖 Further Reading
 
-- [NKTm Unit: Measurement Standard for Varying Inertia in the NKTg Law](./nktg-law/NKTm-Unit.md)
+- [NKTm Unit: Measurement Standard for Varying Inertia in the NKTg Law](./nktg-law/NKTm-Unit.md)  
+- [Experimental Verification of the NKTg Law: Interpolating the Masses of 8 Planets (2024)](./nktg-law/Experimental_Verification_of_the_NKTg_Law_Interpolating_the_Masses_of_8_Planets_2024.md)
+
+---
+
 
 
 ## 🔧 Stable State Definition
