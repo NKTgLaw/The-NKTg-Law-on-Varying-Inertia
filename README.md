@@ -1,4 +1,9 @@
-The NKTg Law on Varying Inertia
+# The NKTg Law on Varying Inertia
+
+- **Independent researcher:** Nguyễn Khánh Tùng  
+- **ORCID:** [0009-0002-9877-4137](https://orcid.org/0009-0002-9877-4137)  
+- **Email:** traiphieu.com@gmail.com  
+- **Website:** [https://traiphieu.com](https://traiphieu.com)
 
 A novel formulation of orbital dynamics that describes how an object's motion in space depends on its **position**, **velocity**, and **mass** — through a new quantity called **NKTg**.
 
@@ -57,11 +62,10 @@ NKTg₂ = (dm/dt) × p
 ### 📖 Further Reading
 
 - [NKTm Unit: Measurement Standard for Varying Inertia in the NKTg Law](./nktg-law/NKTm-Unit.md)  
-- [Experimental Verification of the NKTg Law: Interpolating the Masses of 8 Planets (2024)](./nktg-law/Experimental_Verification_of_the_NKTg_Law_Interpolating_the_Masses_of_8_Planets_2024.md)
+- [Experimental Verification of the NKTg Law: Interpolating the Masses of 8 Planets (2024)](./nktg-law/Experimental_Verification_of_the_NKTg_Law_Interpolating_the_Masses_of_8_Planets_2024.md)  
+- [Experimental Verification of the NKTg Law Using NASA Neptune Data (2023-2024)](./nktg-law/Experimental_Verification_of_the_NKTg_Law_Using_NASA_Neptune_Data_2023_2024.md)
 
 ---
-
-
 
 ## 🔧 Stable State Definition
 
